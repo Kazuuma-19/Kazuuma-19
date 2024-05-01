@@ -5,4 +5,4 @@
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql,postgres)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,express,vue,typescript,wordpress,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,jquery,express,vue,typescript,wordpress,laravel)](https://skillicons.dev)
